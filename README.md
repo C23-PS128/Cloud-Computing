@@ -1,3 +1,5 @@
+<p align="center"><img src="screenshot/banner-repository.png"/></p>
+
 # Coffee API
 
 This repository contains the backend API for the Coffee application, which consists of two main folders: `flask` and `nodejs`.
