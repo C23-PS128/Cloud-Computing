@@ -51,7 +51,7 @@ The API will be accessible at `http://localhost:3000`.
 👤 **Muhamad Farid**
 - GitHub: [@Muhamad-Farid](https://github.com/Muhamad-Farid)
 
-👤 **Akhmad Nur Yasin**
+👤 **Akhmad Nuryasin**
 - GitHub: [@akhmadnuryasin](https://github.com/akhmadnuryasin)
 
 Feel free to contact the authors if you have any questions or suggestions regarding the project.
